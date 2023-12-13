@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] {
+    display: none;
+}
+
+.hidden {
+    display: none;
+}
+
+#hidden {
+    background-color: black;
+}
